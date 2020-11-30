@@ -1,2 +1,2 @@
 # cv
-This repo is an intrductory repo.
+This repo is an introductory repo.
